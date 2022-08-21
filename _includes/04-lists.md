@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. MSc in Data Science
+2. MSc in Communication
+3. BSc in Computer Software
